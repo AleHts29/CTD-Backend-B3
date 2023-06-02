@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/C22-demo.MVC/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/C22-demo.MVC/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/C28-API_desde_la_Vista__peliculas-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/C33-Spring_Data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/C33-Spring_Data/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/C34-LiveCoding_Student/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/C34-LiveCoding_Student/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase21-Spring_animal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase21-Spring_animal/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase22-MVC_entrenador/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase22-MVC_entrenador/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase23-MVC_TPF/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase23-MVC_TPF/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase24-MVC_TPF_Odontologos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase24-MVC_TPF_Odontologos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase25-API_Rest_TPF/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase25-API_Rest_TPF/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase26-API_Rest_TPF_2da/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase26-API_Rest_TPF_2da/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase27-API_Rest_TPF_resHTTP/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase27-API_Rest_TPF_resHTTP/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase28-API_Rest_TPF_Frontbasico/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase28-API_Rest_TPF_Frontbasico/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase29-TPF_turnos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase29-TPF_turnos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase30-TPF_Inyeccion_Componentes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase30-TPF_Inyeccion_Componentes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase31-ORM/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase31-ORM/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase32-ORM_Relacionentre_de_tablas/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase32-ORM_Relacionentre_de_tablas/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase33-Spring_Data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase33-Spring_Data/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase34-HQL/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase34-HQL/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase35-TPF_Paciente/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase35-TPF_Paciente/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase36-TPF_Odontologo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase36-TPF_Odontologo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase37a/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase37a/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase37b-DTO/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clase37b-DTO/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

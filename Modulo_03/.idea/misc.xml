@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/clase37a/pom.xml" />
+        <option value="$PROJECT_DIR$/clase31-ORM/pom.xml" />
+        <option value="$PROJECT_DIR$/clase34-HQL/pom.xml" />
+        <option value="$PROJECT_DIR$/C22-demo.MVC/pom.xml" />
+        <option value="$PROJECT_DIR$/clase37b-DTO/pom.xml" />
+        <option value="$PROJECT_DIR$/C33-Spring_Data/pom.xml" />
+        <option value="$PROJECT_DIR$/clase23-MVC_TPF/pom.xml" />
+        <option value="$PROJECT_DIR$/clase29-TPF_turnos/pom.xml" />
+        <option value="$PROJECT_DIR$/clase33-Spring_Data/pom.xml" />
+        <option value="$PROJECT_DIR$/clase25-API_Rest_TPF/pom.xml" />
+        <option value="$PROJECT_DIR$/clase35-TPF_Paciente/pom.xml" />
+        <option value="$PROJECT_DIR$/clase21-Spring_animal/pom.xml" />
+        <option value="$PROJECT_DIR$/C34-LiveCoding_Student/pom.xml" />
+        <option value="$PROJECT_DIR$/clase22-MVC_entrenador/pom.xml" />
+        <option value="$PROJECT_DIR$/clase36-TPF_Odontologo/pom.xml" />
+        <option value="$PROJECT_DIR$/clase26-API_Rest_TPF_2da/pom.xml" />
+        <option value="$PROJECT_DIR$/clase24-MVC_TPF_Odontologos/pom.xml" />
+        <option value="$PROJECT_DIR$/clase27-API_Rest_TPF_resHTTP/pom.xml" />
+        <option value="$PROJECT_DIR$/clase28-API_Rest_TPF_Frontbasico/pom.xml" />
+        <option value="$PROJECT_DIR$/clase30-TPF_Inyeccion_Componentes/pom.xml" />
+        <option value="$PROJECT_DIR$/clase32-ORM_Relacionentre_de_tablas/pom.xml" />
+        <option value="$PROJECT_DIR$/C28-API_desde_la_Vista__peliculas-api/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="openjdk-18" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

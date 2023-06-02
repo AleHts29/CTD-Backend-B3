@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/C11-H2/C11-H2.iml" filepath="$PROJECT_DIR$/C11-H2/C11-H2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C12-Integradora/C12-Integradora.iml" filepath="$PROJECT_DIR$/C12-Integradora/C12-Integradora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C13-LiveCoding/C13-LiveCoding.iml" filepath="$PROJECT_DIR$/C13-LiveCoding/C13-LiveCoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C19-Paseador-Archivos/C19-Paseador-Archivos.iml" filepath="$PROJECT_DIR$/C19-Paseador-Archivos/C19-Paseador-Archivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAO_LiviCoding_C14A/DAO_LiviCoding_C14A.iml" filepath="$PROJECT_DIR$/DAO_LiviCoding_C14A/DAO_LiviCoding_C14A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase14/clase14.iml" filepath="$PROJECT_DIR$/clase14/clase14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase16_TPF/clase16_TPF.iml" filepath="$PROJECT_DIR$/clase16_TPF/clase16_TPF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase18-Maven_TPF/clase18-Maven_TPF.iml" filepath="$PROJECT_DIR$/clase18-Maven_TPF/clase18-Maven_TPF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase19-Archivos/clase19-Archivos.iml" filepath="$PROJECT_DIR$/clase19-Archivos/clase19-Archivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase20/clase201.iml" filepath="$PROJECT_DIR$/clase20/clase201.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro-DAO/intro-DAO.iml" filepath="$PROJECT_DIR$/intro-DAO/intro-DAO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase14/clase29/src/main/main.iml" filepath="$PROJECT_DIR$/clase14/clase29/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase14/clase29/src/test/test.iml" filepath="$PROJECT_DIR$/clase14/clase29/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-Log4J/test-Log4J.iml" filepath="$PROJECT_DIR$/test-Log4J/test-Log4J.iml" />
+    </modules>
+  </component>
+</project>

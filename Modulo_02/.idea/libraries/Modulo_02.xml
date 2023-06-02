@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Modulo_02">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/Modulo_02/cocinero.zip!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Modulo_02/log4j-1.2.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

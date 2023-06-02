@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../apache-log4j-1.2.17">
+      <sourceFolder url="file://$MODULE_DIR$/../../apache-log4j-1.2.17" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../apache-log4j-1.2.17/contribs/CekiGulcu" isTestSource="false" packagePrefix="org.apache.log4j.xml" />
+      <sourceFolder url="file://$MODULE_DIR$/../../apache-log4j-1.2.17/contribs/EirikLygre" isTestSource="false" packagePrefix="org.apache.log4j" />
+      <sourceFolder url="file://$MODULE_DIR$/../../apache-log4j-1.2.17/contribs/JamesHouse" isTestSource="false" packagePrefix="org.apache.log4j.gui" />
+      <sourceFolder url="file://$MODULE_DIR$/../../apache-log4j-1.2.17/contribs/Jamie Tsao" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../apache-log4j-1.2.17/contribs/JimMoore" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../apache-log4j-1.2.17/contribs/KevinSteppe" isTestSource="false" packagePrefix="org.apache.log4j.varia.test" />
+      <sourceFolder url="file://$MODULE_DIR$/../../apache-log4j-1.2.17/contribs/KitchingSimon" isTestSource="false" packagePrefix="org.apache.log4j.helpers" />
+      <sourceFolder url="file://$MODULE_DIR$/../../apache-log4j-1.2.17/contribs/LeosLiterak" isTestSource="false" packagePrefix="org.apache.log4j" />
+      <sourceFolder url="file://$MODULE_DIR$/../../apache-log4j-1.2.17/contribs/MarkDouglas" isTestSource="false" packagePrefix="com.systemsunion.LoggingServer" />
+      <sourceFolder url="file://$MODULE_DIR$/../../apache-log4j-1.2.17/contribs/SvenReimers" isTestSource="false" packagePrefix="org.apache.log4j" />
+      <sourceFolder url="file://$MODULE_DIR$/../../apache-log4j-1.2.17/contribs/ThomasFenner" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../apache-log4j-1.2.17/contribs/VolkerMentzner" isTestSource="false" packagePrefix="com.psibt.framework.net" />
+      <sourceFolder url="file://$MODULE_DIR$/../../apache-log4j-1.2.17/site/apidocs/org/apache/log4j/xml/examples/doc-files" isTestSource="false" packagePrefix="org.apache.log4j.xml.examples" />
+      <sourceFolder url="file://$MODULE_DIR$/../../apache-log4j-1.2.17/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../apache-log4j-1.2.17/src/main/javadoc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../apache-log4j-1.2.17/src/performance/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../apache-log4j-1.2.17/tests/src/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../h2">
+      <sourceFolder url="file://$MODULE_DIR$/../../h2/src/java10/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../h2/src/java9/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../h2/src/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../h2/src/test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../h2/src/tools" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

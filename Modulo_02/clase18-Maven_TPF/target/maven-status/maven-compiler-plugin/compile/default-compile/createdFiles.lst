@@ -1,0 +1,8 @@
+presencial/dao/PacienteDAOH2.class
+presencial/servicio/DomicilioService.class
+presencial/dao/DomicilioDAOH2.class
+presencial/servicio/PacienteService.class
+presencial/modelo/Paciente.class
+presencial/bd/BD.class
+presencial/dao/IDao.class
+presencial/modelo/Domicilio.class

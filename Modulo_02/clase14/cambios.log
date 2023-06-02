@@ -1,0 +1,6 @@
+[2022-08-16 16:58:21] [ INFO ] [MedicamentoDaoH2:19] Registrando un pedido de nuevoMedicamento:id=null, nombre='Ibuprofeno, laboratorio='Lab123, cantidad=5, precio=400.0
+[2022-08-16 16:58:21] [ INFO ] [MedicamentoDaoH2:39] El medicamento se registró con éxito:Medicamento:id=1, nombre='Ibuprofeno, laboratorio='Lab123, cantidad=5, precio=400.0
+[2023-05-28 17:05:52] [ INFO ] [MedicamentoDaoH2:18] Registrando un pedido de nuevoMedicamento:id=null, nombre='Ibuprofeno, laboratorio='Lab123, cantidad=5, precio=400.0
+[2023-05-28 17:05:53] [ INFO ] [MedicamentoDaoH2:42] El medicamento se registró con éxito:Medicamento:id=1, nombre='Ibuprofeno, laboratorio='Lab123, cantidad=5, precio=400.0
+[2023-05-28 17:11:38] [ INFO ] [MedicamentoDaoH2:18] Registrando un pedido de nuevoMedicamento:id=null, nombre='Ibuprofeno, laboratorio='Lab123, cantidad=5, precio=400.0
+[2023-05-28 17:11:38] [ INFO ] [MedicamentoDaoH2:42] El medicamento se registró con éxito:Medicamento:id=1, nombre='Ibuprofeno, laboratorio='Lab123, cantidad=5, precio=400.0
